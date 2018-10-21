@@ -1,5 +1,5 @@
 _repo: Recollections-of-the-Private-Life-of-Napoleon-Volume-10_3577
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Clark, Walter
@@ -41,5 +41,6 @@ subjects:
 - !lcc 'DC'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- GITenberg
 title: Recollections of the Private Life of Napoleon — Volume 10
 url: http://www.gutenberg.org/ebooks/3577
